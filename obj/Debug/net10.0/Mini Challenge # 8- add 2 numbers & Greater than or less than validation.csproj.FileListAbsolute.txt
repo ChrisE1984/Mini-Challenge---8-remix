@@ -1,0 +1,14 @@
+C:\Users\cestr\Desktop\Homework\Mini Challenge # 8- add 2 numbers & Greater than or less than validation\bin\Debug\net10.0\Mini Challenge # 8- add 2 numbers & Greater than or less than validation.exe
+C:\Users\cestr\Desktop\Homework\Mini Challenge # 8- add 2 numbers & Greater than or less than validation\bin\Debug\net10.0\Mini Challenge # 8- add 2 numbers & Greater than or less than validation.deps.json
+C:\Users\cestr\Desktop\Homework\Mini Challenge # 8- add 2 numbers & Greater than or less than validation\bin\Debug\net10.0\Mini Challenge # 8- add 2 numbers & Greater than or less than validation.runtimeconfig.json
+C:\Users\cestr\Desktop\Homework\Mini Challenge # 8- add 2 numbers & Greater than or less than validation\bin\Debug\net10.0\Mini Challenge # 8- add 2 numbers & Greater than or less than validation.dll
+C:\Users\cestr\Desktop\Homework\Mini Challenge # 8- add 2 numbers & Greater than or less than validation\bin\Debug\net10.0\Mini Challenge # 8- add 2 numbers & Greater than or less than validation.pdb
+C:\Users\cestr\Desktop\Homework\Mini Challenge # 8- add 2 numbers & Greater than or less than validation\obj\Debug\net10.0\Mini Challenge # 8- add 2 numbers & Greater than or less than validation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cestr\Desktop\Homework\Mini Challenge # 8- add 2 numbers & Greater than or less than validation\obj\Debug\net10.0\Mini Challenge # 8- add 2 numbers & Greater than or less than validation.AssemblyInfoInputs.cache
+C:\Users\cestr\Desktop\Homework\Mini Challenge # 8- add 2 numbers & Greater than or less than validation\obj\Debug\net10.0\Mini Challenge # 8- add 2 numbers & Greater than or less than validation.AssemblyInfo.cs
+C:\Users\cestr\Desktop\Homework\Mini Challenge # 8- add 2 numbers & Greater than or less than validation\obj\Debug\net10.0\Mini Challenge # 8- add 2 numbers & Greater than or less than validation.csproj.CoreCompileInputs.cache
+C:\Users\cestr\Desktop\Homework\Mini Challenge # 8- add 2 numbers & Greater than or less than validation\obj\Debug\net10.0\Mini Challenge # 8- add 2 numbers & Greater than or less than validation.dll
+C:\Users\cestr\Desktop\Homework\Mini Challenge # 8- add 2 numbers & Greater than or less than validation\obj\Debug\net10.0\refint\Mini Challenge # 8- add 2 numbers & Greater than or less than validation.dll
+C:\Users\cestr\Desktop\Homework\Mini Challenge # 8- add 2 numbers & Greater than or less than validation\obj\Debug\net10.0\Mini Challenge # 8- add 2 numbers & Greater than or less than validation.pdb
+C:\Users\cestr\Desktop\Homework\Mini Challenge # 8- add 2 numbers & Greater than or less than validation\obj\Debug\net10.0\Mini Challenge # 8- add 2 numbers & Greater than or less than validation.genruntimeconfig.cache
+C:\Users\cestr\Desktop\Homework\Mini Challenge # 8- add 2 numbers & Greater than or less than validation\obj\Debug\net10.0\ref\Mini Challenge # 8- add 2 numbers & Greater than or less than validation.dll
