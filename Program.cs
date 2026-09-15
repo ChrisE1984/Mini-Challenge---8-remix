@@ -1,7 +1,7 @@
 ﻿//Chris Estrada
 //9-15-26
 //Mini Challenge 8
-//What you did
+//What you did recreated original programs to run using tryparse and adding loops to continue playing
 //Peer Review: Callen Thomason
 /*
 Flow chart looks good. Some parts of it could be more clear, and some steps might be combines. Some outputs are also marked as processes
@@ -61,6 +61,13 @@ Console.WriteLine("Your numbers add up to " + (num+numTwo) + ".");
 
 Console.WriteLine("Would you like to play again? Y/N?");
     continuePlaying = Console.ReadLine().ToUpperInvariant();
+    if (playerAnswer == "n")
+    {
+        Console.WriteLine("OK, See you later!");
+    }
+
+
+} while (playerAnswer == "y");
 }
 
 
