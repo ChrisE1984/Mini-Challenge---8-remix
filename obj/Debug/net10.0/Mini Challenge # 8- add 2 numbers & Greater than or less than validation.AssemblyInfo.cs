@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Mini Challenge # 8- add 2 numbers & Greater than or less than validation")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+00b758eeff23dde511891e9a7dbf9405e3d5e965")]
 [assembly: System.Reflection.AssemblyProductAttribute("Mini Challenge # 8- add 2 numbers & Greater than or less than validation")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Mini Challenge # 8- add 2 numbers & Greater than or less than validation")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
