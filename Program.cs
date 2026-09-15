@@ -2,8 +2,15 @@
 //9-15-26
 //Mini Challenge 8
 //What you did
-//Peer Review:
-//Review:
+//Peer Review: Callen Thomason
+/*
+Flow chart looks good. Some parts of it could be more clear, and some steps might be combines. Some outputs are also marked as processes
+Code works great, but you are missing validation on the 'do you want to play again'
+I entered 'beans' and it ran the code again.
+Your while loops work very well, and TryParse is also great
+I would suggest trying a do while loop for the play again feature, but your while loops also work great. 
+
+*/
 
 Console.Clear();
 
